@@ -1,1 +1,1 @@
-# Vidify - A Video Player App 
+# Vidify - A Video Player App
